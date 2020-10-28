@@ -117,3 +117,4 @@ $("a[href^='#']").click(function(){
   return false;
 });
 
+new WOW().init();
